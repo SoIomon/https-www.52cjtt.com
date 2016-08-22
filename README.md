@@ -10,4 +10,4 @@ about.html---About Us子网页
 
 后端 @钱梦想 邮箱：770589196@qq.com
 
-设计，资料收集，端茶递水捏腰捶背：@PrConstantin 邮箱:850901938@qq.com
+设计，资料收集，端茶递水捏腰捶背：@PrConstantin 邮箱: 850901938@qq.com
